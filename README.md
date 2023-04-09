@@ -4,7 +4,7 @@ Lenguaje usado: C#
 
 Base de datos usada: MySQL
 
-Pequeño sistema para el Control de clientes de un banco.
+Pequeño sistema para el control de clientes de un banco.
 
 Menu:
 
