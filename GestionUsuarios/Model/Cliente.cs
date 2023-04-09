@@ -8,7 +8,7 @@ namespace GestionUsuarios.Model
 {
     internal class Cliente
     {
-        private string id;
+        private int id;
         private string nombre;
         private string apellido;
         private string telefono;
@@ -26,7 +26,7 @@ namespace GestionUsuarios.Model
 
         public string NombreCommpleto
         {
-            get { return ID + " " + Nombre + " " + Apellido + " " + Telefono + " " + CreditCard; }
+            get { return "Cliente: " +ID + " " + Nombre + " " + Apellido + " " + Telefono + " " + CreditCard; }
         }
 
         public override string ToString()

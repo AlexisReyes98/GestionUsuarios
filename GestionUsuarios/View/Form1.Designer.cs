@@ -59,7 +59,7 @@
             Controls.Add(label1);
             Controls.Add(btnClientes);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Menu";
             ResumeLayout(false);
             PerformLayout();
         }
