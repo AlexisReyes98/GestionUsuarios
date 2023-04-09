@@ -10,7 +10,7 @@ Menu:
 
 ![Captura de pantalla 2023-04-09 042305](https://user-images.githubusercontent.com/72325257/230767635-d04a019d-4507-4e91-b79c-01e2bdb45011.png)
 
-Vita de clientes:
+Vista de clientes:
 
 ![Captura de pantalla 2023-04-09 042313](https://user-images.githubusercontent.com/72325257/230767644-dbbe3e67-14c9-4c01-bad5-e2ef1156c58f.png)
 
@@ -30,6 +30,6 @@ Eliminar cliente:
 
 ![Captura de pantalla 2023-04-09 042425](https://user-images.githubusercontent.com/72325257/230767686-30f96901-eb7b-4c34-9eae-5677e7b8ba12.png)
 
-Vita de clientes en Workbench:
+Vista de clientes en Workbench:
 
 ![Captura de pantalla 2023-04-09 042515](https://user-images.githubusercontent.com/72325257/230767690-f7bb0e62-e04e-47c0-b60f-2fa1b6a52479.png)
